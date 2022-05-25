@@ -1,0 +1,19 @@
+.delete{
+  width: 100px;
+  background-color: red;
+  color:white;
+  border: none;
+  border-radius: 80px;
+}
+
+#cadastrar{
+  width: 100px;
+  background-color:blue;
+  color:white;
+  border: none;
+  border-radius: 5px;
+}
+
+#patio{
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
